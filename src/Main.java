@@ -11,6 +11,7 @@ public class Main {
 
         print();
         test2();
+
     }
 
     public static void print()
