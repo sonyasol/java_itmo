@@ -6,7 +6,7 @@ public class MainClass {
     public static void main(String[] args)
     {
         print();
-//        task2();
+        task2();
 //        task3();
 //        task4();
 //        task5();
