@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MainClass {
     public static void main(String[] args)
     {
-//        print();
+        print();
 //        task2();
 //        task3();
 //        task4();
