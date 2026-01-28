@@ -31,4 +31,12 @@ public class Book {
     public Integer getPages() {
         return pages;
     }
+
+    public void setPrice(Double price) {
+        this.price = price;
+    }
+
+    public Double getPrice() {
+        return price;
+    }
 }
