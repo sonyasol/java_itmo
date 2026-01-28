@@ -9,5 +9,17 @@ public class Main {
         System.out.println(calc.Multiply(12, 56));
         System.out.println(calc.Subtract(560, 160));
 
+        Book book = new Book();
+        Book book2 = new Book("nnn", "hjfjhfdfd", 50, 63.2, true);
+
+        System.out.println(book.toString());
+        System.out.println(book2.toString());
+
+        book.setAuthor("Булгаков М.");
+        System.out.println(book.getAuthor());
+
+        book2.setPages(100);
+        System.out.println(book2.getPages() + " страниц");
+
     }
 }
