@@ -39,4 +39,12 @@ public class Book {
     public Double getPrice() {
         return price;
     }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public String getTitle() {
+        return title;
+    }
 }
